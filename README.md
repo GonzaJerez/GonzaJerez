@@ -1,4 +1,4 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="https://github.com/GonzaJerez/gonzajerez/blob/main/svg.svg"/>
 
 ### Hi there 👋
 

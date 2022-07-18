@@ -36,6 +36,9 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt="Redux" width="24">](https://es.redux.js.org/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | [<img src="https://socket.io/images/logo.svg" alt="Socket" width="24">](https://socket.io/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="24">](https://sass-lang.com/) | [<img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt="Heroku" width="24">](https://www.heroku.com/home) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="24">](https://developer.mozilla.org/es/docs/Web/CSS)  |  many more...
 |---|---|---|---|---|---|---|---|---|---|
 
-### These are my last projects
+### 👨🏽‍💻 These are my last projects
 
-
+- [Lumar Lubricentro](https://lumar-lubricentro.vercel.app)
+- [Gym Tonic](https://github.com/GonzaJerez/rutinas-app-front)
+- [Cuentas Claras](https://github.com/GonzaJerez/rutinas-app-front)
+- [Analisis oraciones](https://github.com/GonzaJerez/analisis-oraciones)

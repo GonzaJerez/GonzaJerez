@@ -39,6 +39,7 @@
 ### 👨🏽‍💻 These are my last projects
 
 - [Lumar Lubricentro](https://lumar-lubricentro.vercel.app)
-- [Gym Tonic](https://github.com/GonzaJerez/rutinas-app-front)
+- [Gym Tonic - Frontend](https://github.com/GonzaJerez/rutinas-app-front)
+- [Gym Tonic - Backend](https://github.com/GonzaJerez/rutinas-app)
 - [Cuentas Claras](https://github.com/GonzaJerez/rutinas-app-front)
 - [Analisis oraciones](https://github.com/GonzaJerez/analisis-oraciones)

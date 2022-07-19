@@ -41,5 +41,5 @@
 - [Lumar Lubricentro](https://lumar-lubricentro.vercel.app)
 - [Gym Tonic - Frontend](https://github.com/GonzaJerez/rutinas-app-front)
 - [Gym Tonic - Backend](https://github.com/GonzaJerez/rutinas-app)
-- [Cuentas Claras](https://github.com/GonzaJerez/rutinas-app-front)
+- [Cuentas Claras](https://github.com/GonzaJerez/cuentas-claras)
 - [Analisis oraciones](https://github.com/GonzaJerez/analisis-oraciones)

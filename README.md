@@ -3,6 +3,8 @@
 ### Hi there 👋 I'm [Gonzalo Jerez](https://www.linkedin.com/in/gonzalo-jerez-8089b918b/)
 > Software Developer (MERN stack)
 
+> https://www.linkedin.com/in/gonzalo-jerez/
+
 
 <h3> 👨🏻•💻 About Me </h3>
 

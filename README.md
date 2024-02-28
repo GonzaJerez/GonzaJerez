@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="36" height="36">
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="36" height="36">
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt="React" width="36" height="36">
-   <img src="./icons/expo.svg" alt="Expo" />
+  <img src="./icons/expo.png" alt="Expo" width="36" height="36" />
 </div>
 
 ### Tools 🛠️

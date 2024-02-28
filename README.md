@@ -1,7 +1,7 @@
 <img src="https://github.com/GonzaJerez/gonzajerez/blob/main/svg.svg"/>
 
 ### Hi there 👋 I'm [Gonzalo Jerez](https://www.linkedin.com/in/gonzalo-jerez-8089b918b/)
-> Software Developer (MERN stack)
+> Software Developer
 
 > https://www.linkedin.com/in/gonzalo-jerez/
 
@@ -10,9 +10,8 @@
 
 
 - 📱 I am a web and mobile developer.
-- 🌱 I work both in the frontend, with the entire React ecosystem, and in the backend with Node.js
-- ✍️ When I'm not programming, I'm studying or watching videos to be a better professional.
-- 🖥  I love working on my own projects and constantly challenging myself.
+- 🌱 I work both in the backend with Node.js and in the frontend, with the entire React ecosystem.
+- 🖥 I like to be constantly learning new technologies and keep abreast of the latest developments in the IT world to grow as a professional and day by day to be better at my job.
 
 
 ### Programming Languages 🌐
@@ -34,7 +33,7 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="24">](https://nextjs.org/) | [<img src="https://socket.io/images/logo.svg" alt="Socket" width="24">](https://socket.io/) | [<img src="https://graphql.org/img/brand/logos/logo.svg" alt="GraphQL" width="24">](https://graphql.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt="Redux" width="24">](https://es.redux.js.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="24">](https://sass-lang.com/) |  many more...
 |---|---|---|---|---|---|---|---|---|
 
-### 👨🏽‍💻 These are my last projects
+### 👨🏽‍💻 These are my last own projects
 
 - [Lumar Lubricentro](https://lumar-lubricentro.vercel.app)
 - [Gym Tonic - Frontend](https://github.com/GonzaJerez/rutinas-app-front)

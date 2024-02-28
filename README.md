@@ -5,12 +5,12 @@
 > Software Developer
 
 <!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/gonzalo-jerez/" alt="LinkedIn de Gonzalo Jerez" rel="noopener noreferer" style="display: flex; gap:6px; align-items: center">
- <img src="./icons/linkedin.svg" width="20" height="20" alt="LinkedIn logo" />
-<span>
-  https://www.linkedin.com/in/gonzalo-jerez/
-  </span>
-</a>
+<div style="display: flex; gap:6px; align-items: center">
+  <img src="./icons/linkedin.svg" width="20" height="20" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/gonzalo-jerez/" alt="LinkedIn de Gonzalo Jerez" rel="noopener noreferer">
+    https://www.linkedin.com/in/gonzalo-jerez/
+  </a>
+</div>
 
 <h3> 👨🏻 About Me </h3>
 
